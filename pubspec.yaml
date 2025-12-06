@@ -1,0 +1,33 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  image_picker: ^0.8.7+3
+  http: ^0.13.5
+  web3dart: ^2.3.5
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.2.5
+  cloud_firestore: ^4.3.1
+  provider: ^6.0.5
+  shared_preferences: ^2.0.15
+  google_sign_in: ^6.1.5
+  path_provider: ^2.1.1  # Ajoute cette ligne
+  path: ^1.8.3           # Ajoute cette ligne
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/construction_logo.png

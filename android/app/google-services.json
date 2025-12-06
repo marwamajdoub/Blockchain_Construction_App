@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482618822156",
+    "project_id": "monappdefautsbatiment",
+    "storage_bucket": "monappdefautsbatiment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482618822156:android:2dc8510abd34acc618e829",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMcjjYuu1HAyRNb08SE288RNU0vfwWNtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
